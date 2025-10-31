@@ -19,7 +19,7 @@
 | **Deep Learning** | PyTorch, TensorFlow / Keras, Transformer Models, Generative Models (GANs, VAEs), CNN |
 | **AI Algorithms** | Reinforcement Learning (RL), Computer Vision (CV), Natural Language Processing (NLP), Bayesian Methods |
 | **Robotics** | Motion Planning, Control Systems, Sensor Fusion |
-| **Languages** | Python, C++ (Robotics / High Performance), Shell Scripting |
+| **Languages** | Python, C++ (Robotics / High Performance) |
 | **Math & Data** | Advanced Statistics, Linear Algebra, Optimization, NumPy, Scikit-learn |
 
 ---
