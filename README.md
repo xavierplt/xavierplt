@@ -1,60 +1,60 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Votre Photo de Profil" style="border-radius: 50%; width: 150px; height: 150px;"/>
-  <h1>Salut ! Je suis [Votre Nom/Pseudo] 👋</h1>
+  <img src="https://via.placeholder.com/150" alt="Your Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;"/>
+  <h1>Hello! I'm [Xavier Plantier] 👋</h1>
   
   ---
   
   <p><strong>Master of Science (MSc) in Artificial Intelligence @ CentraleSupélec</strong></p>
-  <p>Passionné par l'intersection de l'<strong>Intelligence Artificielle</strong> et de la <strong>Robotique</strong>.</p>
-  <p>🎯 Actuellement à la recherche d'un <strong>Stage de Fin d'Études / R&D</strong> en Deep Learning, Vision par Ordinateur ou Contrôle Robotique.</p>
+  <p>Driven by the convergence of <strong>Artificial Intelligence</strong>, <strong>Deep Learning</strong>, and <strong>Robotics</strong>.</p>
+  <p>🎯 Currently seeking an **End-of-Studies / R&D Internship** in Advanced AI Systems or Autonomous Robotics.</p>
 </div>
 
 ---
 
-## 🛠️ Mes Compétences Techniques
+## 🛠️ Core Technical Skills
 
-Je me spécialise dans la conception, l'implémentation et le déploiement de modèles d'IA complexes.
+I specialize in the design, robust implementation, and deployment of complex AI models.
 
-| Domaine | Compétences Clés |
+| Domain | Key Expertise |
 | :--- | :--- |
-| **Deep Learning** | PyTorch (Expert), TensorFlow / Keras, Transfer Learning, Hugging Face (Transformers) |
-| **Algorithmes IA** | **Reinforcement Learning (RL)**, Vision par Ordinateur (CV), NLP, Modèles Génératifs (GANs, VAEs) |
-| **Robotique** | **ROS / ROS 2**, Simulation (Gazebo), Contrôle Mouvement, Perception et Planification |
-| **Langages** | Python (Expert), C++ (Robotique / Performance), Shell Scripting |
-| **MLOps / Cloud** | Docker, Git, CI/CD (GitHub Actions), Notions d'API (FastAPI), MLOps Tools (WandB, MLflow) |
-| **Maths & Data** | Statistiques avancées, Algèbre linéaire, NumPy, Pandas, Scikit-learn |
+| **Deep Learning** | PyTorch (Expert), TensorFlow / Keras, Transformer Models, Generative Models (GANs, VAEs) |
+| **AI Algorithms** | **Reinforcement Learning (RL)**, Computer Vision (CV), Natural Language Processing (NLP), Bayesian Methods |
+| **Robotics** | **ROS / ROS 2**, Simulation (Gazebo), Motion Planning, Control Systems, Sensor Fusion |
+| **Languages** | Python (Expert), C++ (Robotics / High Performance), Shell Scripting |
+| **MLOps / Cloud** | Docker, Git, CI/CD (GitHub Actions), API Development (FastAPI), MLOps Tools (WandB, MLflow) |
+| **Math & Data** | Advanced Statistics, Linear Algebra, Optimization, NumPy, Pandas, Scikit-learn |
 
 ---
 
-## 💡 Projets Phares
+## 💡 Highlighted Projects
 
-Voici une sélection de mes dépôts qui illustrent mon expertise technique et ma rigueur logicielle.
+A selection of repositories demonstrating my technical excellence and software engineering standards.
 
-| Projet | Description | Compétences & Mots-clés |
+| Project Title | Description | Skills & Keywords |
 | :--- | :--- | :--- |
-| **[Nom du Projet RL/Robotique]** | **[Lien vers le dépôt](URL_DU_DEPOT_1)** - Implémentation d'un agent PPO pour le contrôle d'un bras manipulateur simulé (6-DOF). | `Deep RL`, `PyTorch`, `ROS`, `Gazebo`, `Contrôle Mouvement` |
-| **[Nom du Projet Vision/Santé]** | **[Lien vers le dépôt](URL_DU_DEPOT_2)** - Modèle ViT (Vision Transformer) pour la classification d'images médicales, avec un accent sur l'**Interprétabilité (XAI)**. | `Vision Transformer`, `CentraleSupélec`, `XAI`, `Python Typing`, `Docker` |
-| **[Nom du Projet MLOps/NLP]** | **[Lien vers le dépôt](URL_DU_DEPOT_3)** - Déploiement d'une API de recommandation basée sur un modèle NLP pré-entraîné, conteneurisée avec Docker. | `MLOps`, `FastAPI`, `Docker`, `CI/CD`, `Transformers` |
+| **[RL Robotics Project Name]** | **[Link to Repo](REPO_URL_1)** - Implementation of a PPO agent for complex grasping tasks using a simulated 6-DOF manipulator. | `Deep RL`, `PyTorch`, `ROS`, `Gazebo`, `Motion Control` |
+| **[Advanced Vision Project Name]** | **[Link to Repo](REPO_URL_2)** - Vision Transformer (ViT) model for medical image segmentation, focusing on **Explainable AI (XAI)** and model fairness. | `Vision Transformer`, `XAI`, `Python Typing`, `Docker`, `High-Performance Computing` |
+| **[MLOps Deployment Example]** | **[Link to Repo](REPO_URL_3)** - End-to-end pipeline to deploy a trained NLP model as a microservice, complete with automated testing and containerization. | `MLOps`, `FastAPI`, `Docker`, `CI/CD`, `API Development` |
 
 ---
 
-## 📈 Activité GitHub (Générée Automatiquement)
+## 📈 GitHub Activity (Automatically Generated)
 
 <div align="center">
-  ### Statistiques GitHub
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR&show_icons=true&theme=vue" alt="Statistiques GitHub" />
+  ### GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
   
-  ### Langages les Plus Utilisés
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=vue" alt="Langages Top" />
+  ### Top Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
 
-## 📧 Contact
+## 📧 Get in Touch
 
-* **LinkedIn :** [Lien vers votre profil LinkedIn](URL_DE_VOTRE_LINKEDIN)
-* **Email :** [votre.email@eleve.centralesupelec.fr]
+* **LinkedIn:** [Link to your LinkedIn Profile](YOUR_LINKEDIN_URL)
+* **Email:** [your.email@eleve.centralesupelec.fr]
 
 <p align="center">
-  Merci de votre visite ! Hâte de contribuer à vos projets R&D.
+  Thank you for visiting! I look forward to discussing R&D opportunities.
 </p>
